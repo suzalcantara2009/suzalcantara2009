@@ -35,7 +35,9 @@ Me chamo **Suzana Lourenço Alcântara**, tenho 17 anos e sou natural de Rondôn
 
 <!-- PROJETO 1 -->
 <details>
-  <summary align="center"><strong>Projeto Lovelace — Equipe de Robótica</strong></summary>
+  <summary align="center">
+    <img src="https://img.shields.io/badge/Projeto%20Lovelace%20—%20Equipe%20de%20Robótica-B57DDA?style=for-the-badge&logoColor=1C1C1C&labelColor=B57DDA&color=B57DDA" />
+  </summary>
   <div align="center"><small>
       <br>
       <i>"Lovelace - Inclusão feminina em STEM através da robótica Artistica"</i>
@@ -48,7 +50,9 @@ Me chamo **Suzana Lourenço Alcântara**, tenho 17 anos e sou natural de Rondôn
 
 <!-- PROJETO 2 -->
 <details>
-  <summary align="center"><strong>Plataforma Lyra</strong></summary>
+  <summary align="center">
+    <img src="https://img.shields.io/badge/Plataforma%20Lyra%20—%20Matemática%20Gamificada-AAA0BB?style=for-the-badge&logoColor=1C1C1C&labelColor=AAA0BB&color=AAA0BB" />
+  </summary>
   <div align="center"><small>
     <br>
     <i>"Plataforma Web Interativa para Estudos e Revisão de Matemática com Gamificação"</i>
@@ -59,10 +63,11 @@ Me chamo **Suzana Lourenço Alcântara**, tenho 17 anos e sou natural de Rondôn
   </small></div>
 </details>
 
-
 <!-- PROJETO 3 -->
 <details>
-  <summary align="center"><strong>Inteligência Artificial na Educação</strong></summary>
+  <summary align="center">
+    <img src="https://img.shields.io/badge/Inteligência%20Artificial%20na%20Educação%20—%20Guia%20Interativo-e8e2d4?style=for-the-badge&logoColor=1C1C1C&labelColor=e8e2d4&color=e8e2d4" />
+  </summary>
   <div align="center"><small>
     <br>
     <i>"IA em Sala de Aula: Guia para Uso Consciente e Crítico por Alunos do Ensino Médio"</i>
@@ -73,9 +78,12 @@ Me chamo **Suzana Lourenço Alcântara**, tenho 17 anos e sou natural de Rondôn
   </small></div>
 </details>
 
+
 <!-- PROJETO 4 -->
 <details>
-  <summary align="center"><strong>Soluções do Norte — Hackathon</strong></summary>
+  <summary align="center">
+    <img src="https://img.shields.io/badge/Soluções%20do%20Norte%20—%20Hackathon-B57DDA?style=for-the-badge&logoColor=1C1C1C&labelColor=B57DDA&color=B57DDA" />
+  </summary>
   <div align="center"><small>
     <br>
     <i>"IFRO Hackathon - Soluções do Norte: Projeto de Incentivando a Juventude na Criação de Soluções Inovadoras para o Futuro"</i>
@@ -87,7 +95,6 @@ Me chamo **Suzana Lourenço Alcântara**, tenho 17 anos e sou natural de Rondôn
 </details>
 
 <br>
-
 <div align="center">
   <h3><strong> </> </strong></h3>
 </div>
